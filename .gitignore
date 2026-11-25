@@ -1,0 +1,11 @@
+# Terraform files
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+*.tfvars
+.terraform.lock.hcl
+
+# Python & Docker
+__pycache__/
+*.pyc
+.env
